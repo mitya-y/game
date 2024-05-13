@@ -1,6 +1,6 @@
 import socket
 
-from .util import *
+from util import *
 
 sock = socket.socket()
 sock.bind(('', 9090))

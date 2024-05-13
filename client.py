@@ -1,6 +1,6 @@
 import socket
 
-from .util import *
+from util import *
 
 IP = "217.144.98.67"
 sock = socket.socket()
